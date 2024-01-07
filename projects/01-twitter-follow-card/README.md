@@ -1,8 +1,11 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img alt="Curso de React js desde cero y con proyectos" src="https://user-images.githubusercontent.com/1561955/212888793-fd719e58-b0c2-4d03-9c55-38e3e79ebc17.png" width="500" />
 
-Currently, two official plugins are available:
+# Aprendiendo React ⚛️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⌨️ Proyectos de React con código
+
+| Número | Proyecto            | Código                                  | Web                                     |
+| ------ | ------------------- | --------------------------------------- | --------------------------------------- |
+| `01`   | Twitter Follow Card | [Ver](projects/01-twitter-follow-card/) | [Visitar](https://follow-card.surge.sh) |
