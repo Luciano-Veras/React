@@ -1,0 +1,48 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "5894569",
+      "notas": "ver que pasa con los numero man",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "3",
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "4",
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "6",
+      "nombre": "Luciano",
+      "empresa": "Globant",
+      "email": "lucianoveras.dev@gmail.com",
+      "telefono": "3512594009",
+      "notas": "Tengo una entrevista"
+    }
+  ]
+}
