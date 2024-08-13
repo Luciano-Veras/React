@@ -10,3 +10,4 @@
 | `03`   | Cotizador Criptos | [Ver](projects/Vite/criptos-react) | [Visitar](https://65c04b3bf775d9d5059d7dbc--elegant-manatee-9af3e3.netlify.app//) |
 | `04`   | Guitar LA | [Ver](projects/Vite/guitarla) | [Visitar](https://660cae4e858f4d5d800af18a--imaginative-croissant-7ffa9d.netlify.app/) |
 | `05`   | Guitar LA + TypeScript | [Ver](projects/Vite/guitarla-ts) | [Visitar](https://668d8d057494d4dc05543295--imaginative-croissant-7ffa9d.netlify.app/) |
+| `06`   | Calculadora de propinas + TypeScript | [Ver](projects/Vite/calculadora_propina) | [Visitar](https://66bbe053ab6023d0ed65991a--fluffy-dusk-bb2363.netlify.app/) |
